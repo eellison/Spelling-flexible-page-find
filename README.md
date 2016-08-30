@@ -1,6 +1,8 @@
 # Spelling-flexible-page-find
 Chrome extension to find items on a page within a bound of Levenshtein edit distance. It's available at https://chrome.google.com/webstore/detail/spelling-flexible-find/laaabbefkghdmbmpaiddindkppmacaol?utm_source=gmail.
 
+You can also install it locally by downloading the directory, going to chrome://extensions, loading unpacked directory, and choosing this directory. 
+
 Spelling flexible find allows you to find results on a web page within a bound of spelling differences (levenshtein-edit distance). 
 
 This can be useful to find results on the page even if they're mizzpelled, to find results if you're unsure how a word is spelled, or a combination of the two. 
